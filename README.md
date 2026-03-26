@@ -18,6 +18,7 @@ Links do projeto:
 -   [Documentação](https://github.com/juliacdss/ReVeste?tab=readme-ov-file#projeto-integrador---modelo)
 -   Backend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](https://github.com/juliacdss/ReVeste.git) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   [Figma](https://www.figma.com/design/bqo9505OGgB4cpDC0rawwd/ReVeste?node-id=0-1&t=bwPn7mZ9eERmefDI-1)
 
 # 1. Desenvolvimento
 
