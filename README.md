@@ -211,6 +211,7 @@ O sistema deverá garantir a integridade dos dados, evitando inconsistências co
 O sistema deverá carregar páginas de listagem de produtos em até 3 segundos, mesmo com grande quantidade de itens cadastrados.
 
 # 7. Diagrama de Caso de Uso
+<img width="1037" height="788" alt="image" src="https://github.com/user-attachments/assets/35aed25c-dbb6-4a57-9421-928cc37d89c4" />
 
 **Estrutura do Diagrama (como ficará)**
 
