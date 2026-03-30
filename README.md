@@ -30,8 +30,6 @@ A escolha desse modelo se deu por ser uma ideia ligada ao cotidiano, já que a c
 
 # 2. Situação Problema
 
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
-
 -   **Introdução**: O ReVeste é um brechó digital que atua por meio de uma plataforma web, permitindo que usuários anunciem e vendam roupas de forma prática. A empresa é recente e foi criada com o objetivo de incentivar a moda sustentável, promovendo o reaproveitamento de peças de vestuário. Atualmente, o funcionamento do sistema depende de processos simples e pouco automatizados, contando com uma pequena equipe responsável por organizar os anúncios e acompanhar as vendas realizadas na plataforma.
    
 -   **Situação-problema**: No funcionamento atual do ReVeste, os usuários realizam o cadastro de suas peças manualmente, inserindo informações como nome do produto, descrição, preço e imagens. Essas informações ficam armazenadas de maneira básica, sem um padrão bem definido, o que pode gerar inconsistências nos dados e dificultar a organização dos anúncios dentro da plataforma.
@@ -58,11 +56,9 @@ Com a implementação do software, o ReVeste terá um processo mais organizado p
 
 # 4. Modelagem de Dados
 
-(*Nessa parte a equipe deve descrever a modelagem de dados que será implementada no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
+<img width="1037" height="788" alt="image" src="https://github.com/user-attachments/assets/a6dcba68-62be-4e5a-9371-b4e82b5ab8f1" />
 
-Defina as entidades e relacionamentos que farão parte do sistema. Desenhe o diagrama de entidade-relacionamento (DER) e descreva as entidades e relacionamentos que farão parte do sistema.
-
-# 4. Regras de negócio
+# 5. Regras de negócio
 
 As regras de negócio definem como o sistema deve funcionar e quais condições precisam ser seguidas para que as operações aconteçam corretamente. Elas ajudam a organizar os processos da plataforma, garantindo que o cadastro de produtos, as vendas e o controle das peças sejam realizados de forma padronizada e segura dentro do sistema ReVeste.
 
@@ -95,7 +91,7 @@ Administradores terão acesso a funções de gerenciamento, podendo visualizar t
 **RN09 – Integridade das Informações:**
 O sistema não permitirá o cadastro de produtos com campos obrigatórios vazios, garantindo que as informações necessárias estejam sempre registradas.
 
-# 5. Requisitos funcionais
+# 6. Requisitos funcionais
 
 Os requisitos funcionais definem as funcionalidades que o sistema ReVeste deverá possuir para atender às necessidades dos usuários da plataforma. Eles descrevem o que o sistema deve fazer para permitir o cadastro de usuários, o anúncio de roupas, o registro de vendas e a visualização das informações dentro do brechó digital.
 
@@ -145,7 +141,7 @@ Permite que os administradores acompanhem as vendas realizadas na plataforma.
 Dados necessários: produto vendido, vendedor, data da venda, status do produto.
 Usuários: administradores.
 
-# 6. Requisitos não funcionais
+# 7. Requisitos não funcionais
 
 **R.N.F. 01 - Navegadores homologados:**
 O sistema deverá ser homologado para os navegadores Google Chrome e Mozilla Firefox.
@@ -211,7 +207,6 @@ O sistema deverá garantir a integridade dos dados, evitando inconsistências co
 O sistema deverá carregar páginas de listagem de produtos em até 3 segundos, mesmo com grande quantidade de itens cadastrados.
 
 # 7. Diagrama de Caso de Uso
-<img width="1037" height="788" alt="image" src="https://github.com/user-attachments/assets/35aed25c-dbb6-4a57-9421-928cc37d89c4" />
 
 **Estrutura do Diagrama (como ficará)**
 
