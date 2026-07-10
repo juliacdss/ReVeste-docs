@@ -16,7 +16,7 @@ Equipe:
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação](https://github.com/juliacdss/ReVeste?tab=readme-ov-file#projeto-integrador---modelo)
--   Backend: [Repositório](https://github.com/amandastss/Reveste-Backend.git) e [Publicação](https://pi-backend.herokuapp.com/)
+-   Backend: [Repositório](https://github.com/amandastss/Reveste-Backend.git) e [Publicação](https://reveste-backend.class.fabricadesoftware.ifc.edu.br/admin/login/?next=/admin/)
 -   Frontend: [Repositório](https://github.com/amandastss/Reveste-Frontend.git) e [Publicação](https://reveste-frontend.vercel.app/)
 -   [Figma](https://www.figma.com/design/bqo9505OGgB4cpDC0rawwd/ReVeste?node-id=0-1&t=bwPn7mZ9eERmefDI-1)
 
