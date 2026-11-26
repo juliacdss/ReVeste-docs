@@ -19,9 +19,9 @@ Links do projeto:
 -   Frontend: [Repositório](https://github.com/amandastss/Reveste-Frontend.git) e [Publicação](https://reveste-frontend.vercel.app/)
 -   [Figma](https://www.figma.com/design/bqo9505OGgB4cpDC0rawwd/ReVeste?node-id=0-1&t=bwPn7mZ9eERmefDI-1)
 
--   **Usuário para teste:**
-E-mail: aluno@gmail.com
-Senha: teste.123
+    **Usuário para teste:**
+- E-mail: aluno@gmail.com
+- Senha: teste.123
 
 # 1. Desenvolvimento
 
