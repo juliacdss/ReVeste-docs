@@ -11,7 +11,6 @@ Equipe:
 - [Amanda Eduarda Andrade dos Santos](https://github.com/amandastss)
 - [Anna Luiza Carvalho Araujo](https://github.com/annaaraujoifc).
 - [Julia Costa da Silva](https://github.com/juliacdss).
-- [Thayná de Oliveira Becker](https://github.com/thaynabecker)
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
@@ -19,6 +18,10 @@ Links do projeto:
 -   Backend: [Repositório](https://github.com/amandastss/Reveste-Backend.git) e [Publicação](https://reveste-backend.class.fabricadesoftware.ifc.edu.br/admin/login/?next=/admin/)
 -   Frontend: [Repositório](https://github.com/amandastss/Reveste-Frontend.git) e [Publicação](https://reveste-frontend.vercel.app/)
 -   [Figma](https://www.figma.com/design/bqo9505OGgB4cpDC0rawwd/ReVeste?node-id=0-1&t=bwPn7mZ9eERmefDI-1)
+
+-   **Usuário para teste:**
+E-mail: aluno@gmail.com
+Senha: teste.123
 
 # 1. Desenvolvimento
 
