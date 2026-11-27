@@ -5,22 +5,30 @@
 
 **IMPORTANTE**: [**Cadastre seu projeto nesta planilha**](https://docs.google.com/spreadsheets/d/1bSb1-S9qOf46fNH8quyoFpcjcTuBMj_EdSPchOuFULY/edit?usp=sharing).
 
-Professor: [Marco André Mendes](github.com/marcoandre)
+**Professor:** [Marco André Mendes](github.com/marcoandre)
 
-Equipe:
+**Equipe:**
 - [Amanda Eduarda Andrade dos Santos](https://github.com/amandastss)
 - [Anna Luiza Carvalho Araujo](https://github.com/annaaraujoifc).
 - [Julia Costa da Silva](https://github.com/juliacdss).
 
-Links do projeto:
+**Links do projeto:**
 -   [Documentação](https://github.com/juliacdss/ReVeste?tab=readme-ov-file#projeto-integrador---modelo)
 -   Backend: [Repositório](https://github.com/amandastss/Reveste-Backend.git) e [Publicação](https://reveste-backend.class.fabricadesoftware.ifc.edu.br/admin/login/?next=/admin/)
 -   Frontend: [Repositório](https://github.com/amandastss/Reveste-Frontend.git) e [Publicação](https://reveste-frontend.vercel.app/)
 -   [Figma](https://www.figma.com/design/bqo9505OGgB4cpDC0rawwd/ReVeste?node-id=0-1&t=bwPn7mZ9eERmefDI-1)
 
-  Usuário para teste:
+ **Usuário para teste:**
 - E-mail: aluno@gmail.com
 - Senha: teste.123
+
+**Pendências e estado atual do projeto**
+O projeto ReVeste foi desenvolvido e disponibilizado, porém algumas funcionalidades não foram completamente finalizadas. Entre as pendências, estão:
+- Pagamento: finalização de alguns detalhes relacionados ao processo de pagamento.
+- Pedidos: ajustes e melhorias no gerenciamento e funcionamento dos pedidos.
+Apesar dessas pendências, o projeto foi concluído dentro do escopo desenvolvido pela equipe e encontra-se disponível para acesso e demonstração.
+
+**Continuidade do projeto:** a equipe não pretende dar continuidade ao desenvolvimento do sistema nem solicita que outra equipe assuma o projeto. As pendências ficam registradas apenas como pontos que não foram totalmente concluídos durante o desenvolvimento.
 
 # 1. Desenvolvimento
 
