@@ -14,7 +14,7 @@
 
 **Links do projeto:**
 -   [Documentação](https://github.com/juliacdss/ReVeste?tab=readme-ov-file#projeto-integrador---modelo)
--   Backend: [Repositório](https://github.com/amandastss/Reveste-Backend.git) e [Publicação](https://reveste-backend.class.fabricadesoftware.ifc.edu.br/admin/login/?next=/admin/)
+-   Backend: [Repositório](https://github.com/amandastss/Reveste-Backend.git) e [Publicação](https://reveste-backend.class.fabricadesoftware.ifc.edu.br/admin/login/?next=/admin/) Login: admin@reveste.com.br; Senha: teste.123 & (https://reveste-backend.class.fabricadesoftware.ifc.edu.br/)
 -   Frontend: [Repositório](https://github.com/amandastss/Reveste-Frontend.git) e [Publicação](https://reveste-frontend.vercel.app/)
 -   [Figma](https://www.figma.com/design/bqo9505OGgB4cpDC0rawwd/ReVeste?node-id=0-1&t=bwPn7mZ9eERmefDI-1)
 
